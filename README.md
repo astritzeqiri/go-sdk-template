@@ -23,4 +23,4 @@ This repository contains the following:
 
 5. The GitHub Action `Publish to pkg.go.dev` in the target SDK Repo initiates the indexing proces
 
-6. After the time needed for the indexing process to be finished (tipically around 30 minutes or less), package should be accessible at `https://pkg.go.dev/github.com/{go-module-name}@{tag}`
+6. After the time needed for the indexing process to be finished (tipically around 1 hour or less), package should be accessible at `https://pkg.go.dev/github.com/{go-module-name}@{tag}`
