@@ -1,6 +1,9 @@
 # Template repo for Go SDK  
 This template helps developers get started with the Go SDK and initiate indexing process on pkg.go.dev repository
 
+## Prerequisites
+For publishing the package, it is important to note the Go website's [Licence Disclaimer](https://pkg.go.dev/license-policy). As stated in the document, in case of the missing license, only limited package and module information will be made available on the Go website. You can find more information on [license config](https://developers.liblab.com/cli/config-file-overview-customizations/#license) in our developer docs.
+
 ## Contents
 This repository contains the following:
 
